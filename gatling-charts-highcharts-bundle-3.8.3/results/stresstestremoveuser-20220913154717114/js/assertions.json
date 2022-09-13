@@ -1,0 +1,10 @@
+{
+  "simulation": "privytest.StressTestRemoveUser",
+  "simulationId": "stresstestremoveuser-20220913154717114",
+  "start": 1663084039090,
+  "description": "",
+  "scenarios": ["RemoveUser"],
+  "assertions": [
+
+  ]
+}

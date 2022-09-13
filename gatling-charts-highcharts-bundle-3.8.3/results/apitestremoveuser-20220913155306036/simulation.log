@@ -1,0 +1,6 @@
+RUN	privytest.ApiTestRemoveUser	apitestremoveuser	1663084386036	 	3.8.3
+USER	RemoveUser	START	1663084388419
+REQUEST		pre-step : create user	1663084388411	1663084389347	OK	 
+REQUEST		happy - User deleted	1663084394382	1663084394483	OK	 
+REQUEST		negative - User not found	1663084394488	1663084394557	KO	status.find.in([200, 209], 304), found 500
+USER	RemoveUser	END	1663084394565

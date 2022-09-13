@@ -1,0 +1,10 @@
+{
+  "simulation": "privytest.ApiTestRemoveUser",
+  "simulationId": "apitestremoveuser-20220913155306036",
+  "start": 1663084388411,
+  "description": "",
+  "scenarios": ["RemoveUser"],
+  "assertions": [
+
+  ]
+}
