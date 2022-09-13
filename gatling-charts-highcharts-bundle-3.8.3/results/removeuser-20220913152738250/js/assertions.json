@@ -1,0 +1,10 @@
+{
+  "simulation": "RemoveUser",
+  "simulationId": "removeuser-20220913152738250",
+  "start": 1663082860513,
+  "description": "",
+  "scenarios": ["RemoveUser"],
+  "assertions": [
+
+  ]
+}

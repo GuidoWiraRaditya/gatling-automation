@@ -1,0 +1,6 @@
+RUN	privytest.ApiTestRemoveUser	apitestremoveuser	1663086334903	 	3.8.3
+USER	RemoveUser	START	1663086337230
+REQUEST		pre-step : create user	1663086337223	1663086338161	OK	 
+REQUEST		happy - User deleted	1663086343195	1663086343375	OK	 
+REQUEST		negative - User not found	1663086343512	1663086343556	OK	 
+USER	RemoveUser	END	1663086343560
