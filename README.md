@@ -1,5 +1,4 @@
-# privyTest
-test script for privyTest
+# Gatling BE automationtest
 
 # Readme
 ## _How To Run_
